@@ -1,0 +1,22 @@
+# python
+__pycache__/
+*.pyc
+
+# env
+venv/
+env/
+myenv/
+
+# OS
+.DS_Store
+
+# logs
+*.log
+
+# vscode
+.vscode/
+
+# python cache
+.pytest_cache/
+
+frontend/
